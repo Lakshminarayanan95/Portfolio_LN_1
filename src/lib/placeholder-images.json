@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "about-image",
+      "description": "A professional portrait of a person.",
+      "imageUrl": "/my-photo.jpg",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "project-1",
+      "description": "An abstract representation of financial fraud detection.",
+      "imageUrl": "https://images.unsplash.com/photo-1581263518256-ba4a28ed5517?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8ZmluYW5jaWFsJTIwZnJhdWQlMjBkZXRlY3Rpb258ZW58MHx8fHwxNzU4MDA1MjAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "financial fraud"
+    },
+    {
+      "id": "project-2",
+      "description": "An abstract representation of a drowsiness detection system.",
+      "imageUrl": "https://images.unsplash.com/photo-1681024874281-d56c5606ae70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkcm93c2luZXNzfGVufDB8fHx8MTc1ODAwNTI4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drowsiness"
+    },
+    {
+      "id": "project-3",
+      "description": "An abstract representation of a personal blog.",
+      "imageUrl": "https://picsum.photos/seed/project3/600/400",
+      "imageHint": "writing desk"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar for Jane Smith",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar for John Davis",
+      "imageUrl": "https://picsum.photos/seed/avatar2/100/100",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Avatar for Emily White",
+      "imageUrl": "https://picsum.photos/seed/avatar3/100/100",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Avatar for Michael Brown",
+      "imageUrl": "https://picsum.photos/seed/avatar4/100/100",
+      "imageHint": "professional headshot"
+    }
+  ]
+}
